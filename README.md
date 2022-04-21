@@ -10,6 +10,7 @@ https://user-images.githubusercontent.com/99519586/164521965-d6188036-0f9e-48f4-
 
 
 # 🚀 Technologies
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
    - HTML
    
